@@ -33,7 +33,7 @@ _INSTRUCTIONS: Complete all required deliverable sections below._
 
 ### The issue we are hoping to solve
 
-REPLACE THIS SENTENCE with a short description, 2-3 sentences in length, of the specific sustainability problem your solution is meant to address.
+Orientagro is focused on mitigating the environmental and operational inefficiencies related to soil and gas emission management in agriculture, particularly the emission of nitrous oxide (N2O). Our solution offers a real-time, sensor-based system that not only decreases N2O emissions, a significant greenhouse gas, but also streamlines soil analysis processes that are traditionally expensive, time-consuming, and reliant on environmentally harmful chemical reagents. This enables farmers to make quick, data-driven decisions for more sustainable and efficient agriculture.
 
 ### How our technology solution can help
 
