@@ -47,8 +47,6 @@ Our solution revolutionizes this status quo with a portable, AI-powered sensor s
 
 Moreover, our use of AI extends beyond immediate sensor calibration. We are working towards employing machine learning algorithms to offer precise recommendations about fertilizer application. This not only has the potential to reduce the resource cost but also to minimize greenhouse gas emissions. This additional layer of AI-enabled smart decision-making opens avenues for more efficient and environmentally-friendly farming practices.
 
-Another innovative aspect is the employment of AutoML to identify which sensors are critical for soil classification, thereby enabling us to streamline hardware costs without compromising on quality. This feature ensures that our solution remains cost-effective and scalable, important considerations for widespread adoption.
-
 Importantly, we've validated our technology's feasibility for integration into the carbon credit market. By offering real-time, verified data, our product serves as a credible source for carbon credit assessments. This adds an economic incentive for farmers to adopt our technology, integrating OrientAgro into a larger ecosystem aimed at sustainability and climate resilience.
 
 In summary, OrientAgro offers a holistic, AI-powered solution to address both the environmental and operational inefficiencies in current agricultural practices. By providing real-time data and actionable insights, we're not just improving soil and emission management but also contributing significantly to climate change mitigation efforts. Our technology promises a paradigm shift towards more responsible and efficient farming practices, not just in Brazil and the United States but also globally, making substantial contributions to mitigating climate change and environmental degradation.
@@ -60,11 +58,6 @@ In summary, OrientAgro offers a holistic, AI-powered solution to address both th
 
 - [Watson Machine Learning](https://cloud.ibm.com/catalog/services/watson-machine-learning) - IBM Watson Machine Learning is integrated into our solution to enhance the accuracy and reliability of the data collected by our soil and gas sensors. Given the limitations of sensor availability and their varying degrees of precision, Watson's machine learning algorithms are crucial in bridging the gaps. Firstly, we use Watson Machine Learning to classify soil types based on the data collected from our sensors and validated against our growing soil bank, developed in partnership with entities in Brazil. This classification serves as a basis to adjust and correct sensor measurements, enhancing their reliability. It allows us to calibrate the data and estimate the values of soil variables that our sensors are not equipped to measure directly. Secondly, the AutoML feature within IBM Watson assists us in feature selection, helping to identify which sensors are most critical for accurate soil classification. This not only improves the performance of our monitoring system but also has the potential to reduce costs. By identifying less impactful sensors, we can streamline our hardware, making the solution more cost-effective without sacrificing quality. By employing IBM Watson Machine Learning, we can deliver a more accurate, efficient, and cost-effective solution for monitoring soil health and gas emissions, thereby contributing to sustainable agricultural practices.
 
-
-
-### Other IBM technology used
-
-INSTRUCTIONS: List any other IBM technology used in your solution and describe how each component was used. If you can provide links to/details on exactly where these were used in your code, that would help the judges review your submission.
 
 ### Solution architecture
 
