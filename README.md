@@ -15,7 +15,7 @@
   - [Project development roadmap](#project-development-roadmap)
 - [Additional details](#additional-details)
   - [IBM Watson Integration - Screens](#additional-details)
-  - [Intelectual Property](#additional-details)
+  - [Intelectual Property](#intelectual-property)
 
 ## Project summary
 
