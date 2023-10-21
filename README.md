@@ -72,7 +72,7 @@ The device features local data storage, which can also be removed.
 
 ### Solution demo video
 
-[![Watch the video](./images/video-cover-2.png)](https://vimeo.com/876595727?share=copy)
+[![Watch the video](./images/video-cover-2.png)](https://www.youtube.com/watch?v=JobbipLgGvQ)
 
 ### Project development roadmap
 
