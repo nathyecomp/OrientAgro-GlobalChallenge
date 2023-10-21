@@ -58,6 +58,10 @@ In summary, OrientAgro offers a holistic, AI-powered solution to address both th
 
 - [Watson Machine Learning](https://cloud.ibm.com/catalog/services/watson-machine-learning) - IBM Watson Machine Learning is integrated into our solution to enhance the accuracy and reliability of the data collected by our soil and gas sensors. Given the limitations of sensor availability and their varying degrees of precision, Watson's machine learning algorithms are crucial in bridging the gaps. Firstly, we use Watson Machine Learning to classify soil types based on the data collected from our sensors and validated against our growing soil bank, developed in partnership with entities in Brazil. This classification serves as a basis to adjust and correct sensor measurements, enhancing their reliability. It allows us to calibrate the data and estimate the values of soil variables that our sensors are not equipped to measure directly. Secondly, the AutoML feature within IBM Watson assists us in feature selection, helping to identify which sensors are most critical for accurate soil classification. This not only improves the performance of our monitoring system but also has the potential to reduce costs. By identifying less impactful sensors, we can streamline our hardware, making the solution more cost-effective without sacrificing quality. By employing IBM Watson Machine Learning, we can deliver a more accurate, efficient, and cost-effective solution for monitoring soil health and gas emissions, thereby contributing to sustainable agricultural practices.
 
+### Other IBM technology used
+
+In addition to leveraging IBM Watson Machine Learning for data analytics and decision-making, we are in the process of migrating our existing data storage solutions to IBM Cloud Object Storage. This transition aims to provide a more scalable, secure, and cost-effective storage solution, ensuring that our expanding datasets can be efficiently managed and accessed. 
+
 
 ### Solution architecture
 
@@ -65,10 +69,17 @@ Diagram and step-by-step description of the flow of our solution:
 
 ![Video transcription/translaftion app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+1. Initial Setup: The user positions the device in the designated area of the farm for monitoring, replacing traditional manual soil analysis done by agronomists.
+2. Data Collection Configuration: Using the mobile app, the user selects between real-time monitoring or schedules a specific time for data collection (e.g., 15-minute intervals for each portion of the farm).
+3. Sensor Activation: The device begins collecting data on variables such as NPK (Nitrogen, Phosphorus, Potassium), CO2, N2O, and other soil and gas conditions. 
+The device features local data storage, which can also be removed.
+4. Bluetooth Connectivity: Users connect to the device via Bluetooth through the mobile app, enabling real-time data visualization. This allows for comparative analysis between different farm regions, specifically concerning gas emissions. Bluetooth was chosen due to limited internet accessibility in many Brazilian farms.
+5. Data Transmission: On pressing the 'Generate Report' button on the interface, all collected data is sent to the server.
+6. IBM Watson Machine Learning: Data reaches the server, where WatsonX Machine Learning processes it to classify the soil type and returns this classification to our service.
+7. Data Calibration: Based on the classified soil type, our server adjusts the sensor data and estimates values for unmeasured variables using our soil bank.
+8. Report Generation: A comprehensive soil analysis report is generated, sent to the user's email, and also displayed on the mobile app.
+9. Future Work: The system will offer actionable suggestions based on the collected data, such as optimizing fertilizer use depending on soil conditions. It will also allow users to track N2O emissions for potential conversion into carbon credits.
+
 
 ## Presentation materials
 
