@@ -15,7 +15,6 @@
   - [Project development roadmap](#project-development-roadmap)
 - [Additional details](#additional-details)
 
-_INSTRUCTIONS: Complete all required deliverable sections below._
 
 ## Project summary
 
