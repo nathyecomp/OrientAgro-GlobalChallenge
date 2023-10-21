@@ -79,7 +79,7 @@ The device features local data storage, which can also be removed.
 The project currently offers the following features:
 
 - Real-time Soil and Gas Monitoring: Our portable device, equipped with various sensors, can measure critical soil parameters such as NPK (Nitrogen, Phosphorus, Potassium) levels as well as greenhouse gas emissions (CO2, N2O, etc.) in real-time.
-- Machine Learning for Soil Classification: Utilizing IBM Watson Machine Learning, we classify the type of soil based on sensor data. This allows us to adjust and calibrate the sensor measurements for more accurate readings.
+- Machine Learning for Soil Classification: Utilizing IBM Watson Machine Learning, we classify the type of soil based on sensor data. This allows us to adjust and calibrate the sensor measurements for more accurate readings, and to estimate the measurement of other elements that are not directly measured by our sensors.
 - Data Storage and Report Generation: All the collected data is sent to our server, where it's stored. Users can generate detailed soil analysis reports, which can be viewed via a mobile app or sent to the user's email.
   
 In the future, we plan to:
