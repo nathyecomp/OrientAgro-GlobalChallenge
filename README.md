@@ -79,7 +79,7 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 
 ### Solution demo video
 
-[![Watch the video](./images/video-cover.png)](https://vimeo.com/876595727?share=copy)
+[![Watch the video](./images/video-cover-2.png)](https://vimeo.com/876595727?share=copy)
 
 ### Project development roadmap
 
