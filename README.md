@@ -79,7 +79,7 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 
 ### Solution demo video
 
-[![Watch the video](https://raw.githubusercontent.com/Liquid-Prep/Liquid-Prep/main/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://raw.githubusercontent.com/Liquid-Prep/Liquid-Prep/main/images/readme/IBM-interview-video-image.png)](https://www.loom.com/share/b5b0ac35b59043c4a935833ae8a894ae?sid=587cfa43-d2cf-4296-9f4f-506d95a98160)
 
 ### Project development roadmap
 
