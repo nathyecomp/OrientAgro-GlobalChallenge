@@ -110,16 +110,6 @@ See below for our proposed schedule on next steps after Call for Code 2023 submi
 
 ## Additional details
 
-_INSTRUCTIONS: The following deliverables are suggested, but **optional**. Additional details like this can help the judges better review your solution. Remove any sections you are not using._
-
-### How to run the project
-
-INSTRUCTIONS: In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
-
-### Live demo
-
-You can find a running system to test at...
-
-See our [description document](./docs/DESCRIPTION.md) for log in credentials.
+The content presented is protected under the patent titled "METHOD AND PORTABLE DEVICE WITH GAS AND SOIL SENSORS ABLE TO DETECT, INTERPRET GASEOUS AND PROTONATED MOLECULES, IN THE SOIL, AIR, AND PLANTS", registered with the National Institute of Industrial Property (INPI) as number BR102022001072-2, published in the Industrial Property Journal issue 2743 on 01/08/2023, and also safeguarded by the WIPO PROOF WTS/TIMESTAMPS/0000011332.
 
 ---
