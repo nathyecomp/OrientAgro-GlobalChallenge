@@ -91,13 +91,18 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 
 ### Project development roadmap
 
-The project currently does the following things.
+The project currently offers the following features:
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Real-time Soil and Gas Monitoring: Our portable device, equipped with various sensors, can measure critical soil parameters such as NPK (Nitrogen, Phosphorus, Potassium) levels as well as greenhouse gas emissions (CO2, N2O, etc.) in real-time.
+- Machine Learning for Soil Classification: Utilizing IBM Watson Machine Learning, we classify the type of soil based on sensor data. This allows us to adjust and calibrate the sensor measurements for more accurate readings.
+- Data Storage and Report Generation: All the collected data is sent to our server, where it's stored. Users can generate detailed soil analysis reports, which can be viewed via a mobile app or sent to the user's email.
+  
+In the future, we plan to:
 
-In the future we plan to...
+- AI-Driven Fertilizer Recommendations: Leverage the power of AI to provide precise fertilizer application suggestions to farmers, thus reducing both costs and greenhouse gas emissions.
+- Carbon Credit Market Integration: Extend the solution's capabilities to validate and quantify reductions in greenhouse gas emissions, making it eligible for the carbon credit market.
+- Enhanced Machine Learning Models: Expand our soil bank and continuously improve and refine our machine learning models to adapt to different soil types and conditions.
+- Expand to Other Crops and Geographies: Adapt the system for specific needs related to different types of crops and expand our market reach beyond Brazil and the United States.
 
 See below for our proposed schedule on next steps after Call for Code 2023 submission.
 
