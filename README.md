@@ -14,7 +14,8 @@
   - [Solution demo video](#solution-demo-video)
   - [Project development roadmap](#project-development-roadmap)
 - [Additional details](#additional-details)
-
+  - [IBM Watson Integration - Screens](#additional-details)
+  - [Intelectual Property](#additional-details)
 
 ## Project summary
 
