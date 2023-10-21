@@ -67,7 +67,7 @@ In addition to leveraging IBM Watson Machine Learning for data analytics and dec
 
 Diagram and step-by-step description of the flow of our solution:
 
-![Video transcription/translaftion app](./orientagro-solutionArchitecture.png)
+![Video transcription/translaftion app](./images/orientagro-solutionArchitecture.png)
 
 1. Initial Setup: The user positions the device in the designated area of the farm for monitoring, replacing traditional manual soil analysis done by agronomists.
 2. Data Collection Configuration: Using the mobile app, the user selects between real-time monitoring or schedules a specific time for data collection (e.g., 15-minute intervals for each portion of the farm).
