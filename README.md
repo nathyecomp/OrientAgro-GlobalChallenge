@@ -105,7 +105,7 @@ The best result was achieved with a decision tree:
 ![IBMWatson](./images/ibm-watsonx-3.png)
 
 Using the automated feature selection approach of WatsonX, we were able to identify some sensors that proved to be not relevant for our solution.
-
+![IBMWatson](./images/ibm-watsonx-4.png)
 
 ### Intelectual Property
 The content presented is protected under the patent titled "METHOD AND PORTABLE DEVICE WITH GAS AND SOIL SENSORS ABLE TO DETECT, INTERPRET GASEOUS AND PROTONATED MOLECULES, IN THE SOIL, AIR, AND PLANTS", registered with the National Institute of Industrial Property (INPI) as number BR102022001072-2, published in the Industrial Property Journal issue 2743 on 01/08/2023, and also safeguarded by the WIPO PROOF WTS/TIMESTAMPS/0000011332.
